@@ -2,10 +2,6 @@
 
 This project demonstrates how to achieve real-time audio processing in Python. The script captures audio input from the microphone, converts the spoken words to text using Google's speech recognition service, and then synthesizes the recognized text into speech using a different voice. The primary libraries used for this project are `SpeechRecognition` and `pyttsx3`.
 
-
-![audio2](https://github.com/user-attachments/assets/7c8346eb-5576-4cdf-88d8-1b7d1b02e321)
-
-
 ## Features
 
 - Real-time audio capture from the microphone
